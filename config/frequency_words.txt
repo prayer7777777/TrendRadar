@@ -3,10 +3,6 @@
 福利
 !广告
 
-开源
-项目
-
-
 人工智能
 AI
 机器学习
@@ -43,14 +39,8 @@ Kubernetes
 
 
 马斯克
-
 微软
 Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
 AMD
 
 谷歌
@@ -61,22 +51,9 @@ deepmind
 chatgpt
 openai
 sora
-
 claude
 Anthropic
-
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
 人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
